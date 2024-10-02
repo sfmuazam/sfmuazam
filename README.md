@@ -3,7 +3,7 @@
 
 ### Hi there 👋 I am Safa Muazam 
 <blockquote style="width: 50%;">
-  I am a hardworking individual who is dedicated towards his goals.
+  May this journey lead us starward.
 </blockquote>
 <br>
 
@@ -42,3 +42,6 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sfmuazam&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=sfmuazam&label=Profile%20Views&color=1&icon=0&pretty=false)](https://visitcount.itsvg.in)
